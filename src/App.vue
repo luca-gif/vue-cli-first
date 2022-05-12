@@ -1,10 +1,10 @@
 <template>
-
+ 
 <div id="app">
 
  <TitleComp/>
  <JumboComp/>
- 
+
 </div>
 </template>
 
